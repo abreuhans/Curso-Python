@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e642a903-1b63-4010-a661-8b69e33df050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonExercícios/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercícios/ex002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercícios/desafio01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercícios/desafio02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercícios/desafio03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercícios/teste01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,11 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abreu\Documents\estudos\Curso-Python\PythonExercícios" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
